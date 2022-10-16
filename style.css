@@ -1,4 +1,7 @@
 
 #container {
     width: 72vh;
+    background-color: lightgray;
+    display: flex;
+
 }
