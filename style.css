@@ -57,6 +57,8 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
     transform: rotate(-90deg);
+    flex-wrap: wrap-reverse;
+    flex-wrap:wrap;
 
 
 }
@@ -102,3 +104,6 @@ h1 {
     width: 80px;
     background-color: #ffdf8e;
 }
+
+
+   /* Code: Flex Balls 2 */
