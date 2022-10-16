@@ -14,16 +14,20 @@
 
 #div1 {
     background-color: aqua;
+    order: 20;
 }
 
 #div2 {
     background-color: red;
+    order: 14;
 }
 
 #div3 {
     background-color: goldenrod;
+    order: 31;
 }
 
 #div4 {
     background-color: blue;
+    order: 6;
 }
