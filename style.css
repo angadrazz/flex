@@ -10,3 +10,19 @@
     height: 200px;
     width: 200px;
 }
+
+#div1 {
+    background-color: aqua;
+}
+
+#div2 {
+    background-color: red;
+}
+
+#div3 {
+    background-color: goldenrod;
+}
+
+#div4 {
+    background-color: blue;
+}
