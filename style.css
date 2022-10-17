@@ -176,3 +176,20 @@ h1 {
     background-color: #ffdf8e;
 }
 
+/* One objective question  */
+
+.flex-container1 {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #8ffcc9;
+    width: 400px;
+}
+.flex-container1>div {
+    background-color: white;
+    width: 40px;
+    margin: 5px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+}
+
